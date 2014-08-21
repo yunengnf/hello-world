@@ -1,4 +1,3 @@
 hello-world
 ===========
-
-First own repository. For practice purposes.
+THIS IS MY FIRST OWN FREAKING EDTI ON A NEW BRANCH! BRUNCH FTW!
