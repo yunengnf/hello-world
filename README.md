@@ -1,4 +1,3 @@
 hello-world
-===========
-
-First own repository. For practice purposes.
+==========
+THIS IS MY SECOND OWN FREAKING EDIT ON A NEW BRANCH! BRUNCH FTW!
